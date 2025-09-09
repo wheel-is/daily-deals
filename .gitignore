@@ -1,0 +1,5 @@
+# Ignore large data files
+*.json
+*.py
+shopping_ui*.html
+.DS_Store
